@@ -12,5 +12,7 @@ Handling user input and performing error checks (like division by zero).
 Gaining experience in creating interactive CLI applications.
 Practicing code organization and modular programming using functions.
 
+
 OUTPUT: 
+
 <img width="686" height="550" alt="Image" src="https://github.com/user-attachments/assets/26e07e80-f487-44ee-a20a-2a2badda37b2" />
